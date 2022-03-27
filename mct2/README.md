@@ -41,6 +41,9 @@ A menu item should be added to turn off the internal speaker.
 bobolink
 twitter: @wm6h
 
+A short video describing the menu use. A viewer wanted to convert the code to M5Stick.
+YouTube: [YouTube] (https://youtu.be/nPVC9uy0ZFo)
+
 WEB: [DSP Objects](https://dspobjects.com)
 
 
